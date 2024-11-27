@@ -1,0 +1,22 @@
+body{
+    color: bisque;
+    font-size: medium;
+    align-items: center;
+    text-align: center;
+    padding:20px;
+}
+.gameButtons{
+    color:white;
+    border:none;
+    font-size:12px;
+    padding: 5px;
+}
+.submitButton{
+    text-align: center;
+    padding:5px;
+    color: silver;
+    font-size:12px;
+}
+#placeholder, #lyrics {
+    color: red;
+}
